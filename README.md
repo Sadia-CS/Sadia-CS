@@ -54,7 +54,7 @@ const sadia = {
 An n8n chatbot that answers property enquiries for a real estate company on WhatsApp, handles voice notes and images with a polite fallback, and logs every conversation to Google Sheets.
 
 <a href="https://github.com/Sadia-CS/whatsapp-real-estate-chatbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadia-CS&repo=whatsapp-real-estate-chatbot&theme=nord&border_color=22c55e&title_color=22c55e&icon_color=22c55e" alt="WhatsApp Real Estate Chatbot" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadia-CS&repo=whatsapp-real-estate-chatbot&theme=nord&border_color=22c55e&title_color=22c55e&icon_color=22c55e&v=2" alt="WhatsApp Real Estate Chatbot" />
 </a>
 
 | Layer | Technology |
