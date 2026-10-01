@@ -71,7 +71,7 @@ An n8n chatbot that answers property enquiries for a real estate company on What
 An n8n workflow that scrapes business leads, keeps the ones with a website, reads each site, and has Gemini write a personalized outreach email for every lead. Each email is saved to Google Sheets and sent through Gmail, all from a single click.
 
 <a href="https://github.com/Sadia-CS/lead-scraper-outreach-automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadia-CS&repo=lead-scraper-outreach-automation&theme=nord&border_color=22c55e&title_color=22c55e&icon_color=22c55e" alt="AI Lead Scraper and Cold Outreach System" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadia-CS&repo=lead-scraper-outreach-automation&theme=nord&border_color=22c55e&title_color=22c55e&icon_color=22c55e&v=2" alt="AI Lead Scraper and Cold Outreach System" />
 </a>
 
 | Layer | Technology |
